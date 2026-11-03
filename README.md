@@ -4,70 +4,54 @@ I am a trade compliance and operations professional with eight years of experien
 
 ---
 
-## 🎯 Focus Areas & Core Expertise
-
-*  **Process Improvement & Automation:** Leveraging Python data pipelines and Copilot-assisted workflows to eliminate manual bottlenecks in customs and logistics management.
-*  **Trade Compliance Governance:** Strengthening cross-functional corporate compliance, managing regulatory risks, and ensuring robust auditability across international supply chains.
-*  **Data-Driven Decision Making:** Translating messy, disparate global trade data into structured datasets and high-impact analytics for executive strategy and forecasting.
+Through my GitHub portfolio, I demonstrate how Python, SQL, and analytical thinking can improve data reliability, automate workflows, and support informed business decisions.
 
 ---
 
-## 🚀 Featured Projects
+## 🗂️ Featured Projects
 
 ### 📊 Global Trade Data Analysis 
 https://github.com/gkarnelle/Global-Trade-Data-Analysis
-*  **The Business Problem:** Rapidly shifting tariff structures (Sections 201, 232, 301) create massive financial uncertainty and manual overhead for procurement teams forecasting quarterly margins.
-*  **The Solution:** A Python-based analytics platform featuring synthetic import data generation and dynamic scenario modeling. It quantifies duty exposure and projects corporate financial impact across varying regulatory environments.
-*  **Impact:** Empowers supply chain executives with defensive, data-driven forecasting during carrier and vendor contract negotiations.
+
+Trade Compliance Intelligence | Python | Data Visualization
+
+A fictional U.S. importer's 2022–2026 trade analytics project featuring 500 synthetic import transactions, automated preliminary compliance screening, sourcing diversification analysis, and an executive dashboard.
+
+Focus: Regulatory awareness, screening automation, sourcing visibility, and executive reporting.
 
 ### 🧹 Broker Entry Data Cleaning
 https://github.com/gkarnelle/Broker-Entry-Data-Cleaning
-*  **The Business Problem:** Disparate customs broker data is highly prone to human error, inconsistent formatting, and missing fields—making regulatory audits incredibly high-risk.
-*  **The Solution:** An end-to-end data cleansing and standardizing pipeline built in Python. Features automated deduplication, null-handling protocols, rigorous data quality score reporting, and programmatic data lineage tracking.
-*  **Impact:** Guarantees a fully auditable data trail for CBP inquiries, reducing compliance friction and preventing costly classification penalty exposure.
+
+Customs Data Quality | Python | Data Governance
+
+A portfolio project focused on improving customs entry data quality through structured validation, cleaning, and exception identification.
+
+Focus: Data integrity, repeatable quality controls, and operational efficiency.
 
 ### 📈 Strategic Sourcing Intelligence
 https://github.com/gkarnelle/Strategic-Sourcing-Intelligence
-*  **The Business Problem:** Sourcing disruptions and unmonitored vendor performance degrade profit margins and destabilize manufacturing lead times.
-*  **The Solution:** A data automation tool that ingests raw historical purchasing data, calculates critical performance metrics, isolates operational risks, and pushes the data to an interactive executive dashboard.
-*  **Impact:** Replaces reactive logistics firefighting with proactive, visual supply chain oversight.
 
+Supply Chain Analytics | Strategic Sourcing | Business Intelligence
+
+A sourcing analytics project demonstrating how structured data and performance metrics can support supplier evaluation, procurement visibility, and business decisions.
+
+Focus: Sourcing intelligence, analytical reporting, and decision support.
 ---
 
-## 🧰 Technical & Operational Ecosystem
+🛠️ Tools & Capabilities
 
-### 💻 Tech Stack & Automation
+Technical: Python • SQL • Power BI • Excel • GitHub
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square)
-![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=flat-square&logo=githubcopilot&logoColor=white)
+Trade & Operations: Import Compliance • Customs Data Analysis • Tariff Research • Regulatory Screening • Strategic Sourcing
 
-- **Data Pipelines:** Data processing, transformation, automated reporting, and exception tracking.
-- **Data Traceability:** Schema mapping, source tracking, data validation, and documented transformations.
-- **Automation:** Python-based workflows supporting repeatability, accuracy, and operational efficiency.
+Analytics & Governance: Data Cleaning • Data Validation • Process Automation • KPI Reporting • Data Visualization • Data Governance
 
-### 📊 Trade & Procurement Analytics
+🎯 What Drives My Work
 
-- **Trade Analytics:** Tariff exposure modeling, landed-cost scenarios, and customs entry analysis.
-- **Procurement Intelligence:** Supplier performance, spend analysis, and contract coverage.
-- **Business Intelligence:** Dashboards, performance metrics, and data-driven decision support.
+I enjoy finding opportunities to make complex processes simpler, data more reliable, and business decisions more informed.
 
-### 🛃 Customs Compliance & Risk Management
+My approach is rooted in continuous improvement: small but cumulative changes that create meaningful operational impact over time.
 
-- **Customs Operations:** HTS classification data, country-of-origin information, entry validation, and tariff analysis.
-- **Compliance Controls:** Risk-based exception identification, control documentation, and audit readiness.
-- **Operational Improvement:** Process standardization, cross-functional collaboration, and continuous improvement.
+📍 Chicago, IL
 
-### 🛡️ Enterprise Data Governance & Quality
-
-- **Data Stewardship:** Data ownership, accountability, and clearly defined roles and responsibilities.
-- **Data Quality Management:** Completeness, accuracy, consistency, standardization, and validation controls.
-- **Governance Frameworks:** Data dictionaries, critical data elements, control matrices, and documented business rules.
-- **Auditability & Traceability:** Data lineage, change logs, exception management, and evidence documentation.
-- **Governance Focus:** Exploring scalable practices that strengthen data integrity, regulatory compliance, and trusted business reporting.
-
-
----
-
-*“Turning complex global trade data into practical, compliant, and automated business decisions.”*
+Explore my repositories to see how I apply trade compliance knowledge and data analytics to practical business challenges.
