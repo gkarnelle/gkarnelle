@@ -15,7 +15,7 @@ I am a trade compliance and operations professional with eight years of experien
 ## 🚀 Featured Projects
 
 ### 📊 Global Trade Data Analysis 
-[(https://github.com)](https://github.com/gkarnelle-lab/Global-Trade-Data-Analysis)
+[https://github.com/gkarnelle/Global-Trade-Data-Analysis
 *  **The Business Problem:** Rapidly shifting tariff structures (Sections 201, 232, 301) create massive financial uncertainty and manual overhead for procurement teams forecasting quarterly margins.
 *  **The Solution:** A Python-based analytics platform featuring synthetic import data generation and dynamic scenario modeling. It quantifies duty exposure and projects corporate financial impact across varying regulatory environments.
 *  **Impact:** Empowers supply chain executives with defensive, data-driven forecasting during carrier and vendor contract negotiations.
