@@ -10,8 +10,7 @@ Through my GitHub portfolio, I demonstrate how Python, SQL, and analytical think
 
 ## 🗂️ Featured Projects
 
-### 📊 Global Trade Data Analysis 
-https://github.com/gkarnelle/Global-Trade-Data-Analysis
+### 📊 [Global Trade Data Analysis](https://github.com/gkarnelle/Global-Trade-Data-Analysis)
 
 Trade Compliance Intelligence | Python | Data Visualization
 
@@ -19,8 +18,7 @@ A fictional U.S. importer's 2022–2026 trade analytics project featuring 500 sy
 
 Focus: Regulatory awareness, screening automation, sourcing visibility, and executive reporting.
 
-### 🧹 Broker Entry Data Cleaning
-https://github.com/gkarnelle/Broker-Entry-Data-Cleaning
+### 🧹 [Broker Entry Data Cleaning](https://github.com/gkarnelle/Broker-Entry-Data-Cleaning)
 
 Customs Data Quality | Python | Data Governance
 
@@ -28,8 +26,7 @@ A portfolio project focused on improving customs entry data quality through stru
 
 Focus: Data integrity, repeatable quality controls, and operational efficiency.
 
-### 📈 Strategic Sourcing Intelligence
-https://github.com/gkarnelle/Strategic-Sourcing-Intelligence
+### 📈 [Strategic Sourcing Intelligence](https://github.com/gkarnelle/Strategic-Sourcing-Intelligence)
 
 Supply Chain Analytics | Strategic Sourcing | Business Intelligence
 
