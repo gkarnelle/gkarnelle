@@ -36,6 +36,7 @@ Supply Chain Analytics | Strategic Sourcing | Business Intelligence
 A sourcing analytics project demonstrating how structured data and performance metrics can support supplier evaluation, procurement visibility, and business decisions.
 
 Focus: Sourcing intelligence, analytical reporting, and decision support.
+
 ---
 
 🛠️ Tools & Capabilities
