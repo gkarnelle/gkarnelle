@@ -39,7 +39,7 @@ Focus: Sourcing intelligence, analytical reporting, and decision support.
 
 ---
 
-🛠️ Tools & Capabilities
+## 🛠️ Tools & Capabilities
 
 Technical: Python • SQL • Power BI • Excel • GitHub
 
@@ -47,7 +47,7 @@ Trade & Operations: Import Compliance • Customs Data Analysis • Tariff Resea
 
 Analytics & Governance: Data Cleaning • Data Validation • Process Automation • KPI Reporting • Data Visualization • Data Governance
 
-🎯 What Drives My Work
+## 🎯 What Drives My Work
 
 I enjoy finding opportunities to make complex processes simpler, data more reliable, and business decisions more informed.
 
