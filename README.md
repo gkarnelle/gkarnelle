@@ -36,10 +36,37 @@ https://github.com/gkarnelle/Strategic-Sourcing-Intelligence
 
 ## 🧰 Technical & Operational Ecosystem
 
-**Python & Automation:** Python, pandas, Matplotlib, CSV Processing, Automated Analysis & Reporting, GitHub Copilot  
-**Data Quality & Traceability:** Data Cleaning & Standardization, Schema Mapping, Deduplication, Exception Reporting, Source Tracking & Change Logs  
-**Trade & Procurement Analytics:** Tariff Exposure & Landed-Cost Scenarios, Supplier & Category Spend Analysis, Contract Coverage, Savings Modeling, Executive Dashboards  
-**Compliance & Operations:** Trade Compliance, HTS Governance, Process Improvement, Audit Readiness, Risk Prioritization, Cross-Functional Collaboration
+### 💻 Tech Stack & Automation
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square)
+![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=flat-square&logo=githubcopilot&logoColor=white)
+
+- **Data Pipelines:** Data processing, transformation, automated reporting, and exception tracking.
+- **Data Traceability:** Schema mapping, source tracking, data validation, and documented transformations.
+- **Automation:** Python-based workflows supporting repeatability, accuracy, and operational efficiency.
+
+### 📊 Trade & Procurement Analytics
+
+- **Trade Analytics:** Tariff exposure modeling, landed-cost scenarios, and customs entry analysis.
+- **Procurement Intelligence:** Supplier performance, spend analysis, and contract coverage.
+- **Business Intelligence:** Dashboards, performance metrics, and data-driven decision support.
+
+### 🛃 Customs Compliance & Risk Management
+
+- **Customs Operations:** HTS classification data, country-of-origin information, entry validation, and tariff analysis.
+- **Compliance Controls:** Risk-based exception identification, control documentation, and audit readiness.
+- **Operational Improvement:** Process standardization, cross-functional collaboration, and continuous improvement.
+
+### 🛡️ Enterprise Data Governance & Quality
+
+- **Data Stewardship:** Data ownership, accountability, and clearly defined roles and responsibilities.
+- **Data Quality Management:** Completeness, accuracy, consistency, standardization, and validation controls.
+- **Governance Frameworks:** Data dictionaries, critical data elements, control matrices, and documented business rules.
+- **Auditability & Traceability:** Data lineage, change logs, exception management, and evidence documentation.
+- **Governance Focus:** Exploring scalable practices that strengthen data integrity, regulatory compliance, and trusted business reporting.
+
 
 ---
 
