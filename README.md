@@ -1,8 +1,10 @@
 # Hi, I'm Karnelle 👋🛸
 
-I am a trade compliance and operations professional with eight years of experience improving customs processes, strengthening compliance, and turning data into practical business decisions.
+I'm a trade compliance and operations professional with eight years of experience improving customs processes, strengthening data integrity, and translating complex trade information into actionable business insights.
 
-Through my GitHub portfolio, I demonstrate how Python, SQL, and analytical thinking can improve data reliability, automate workflows, and support informed business decisions.
+I use Python, analytics, and automation to explore practical solutions for international trade compliance, supply chain operations, and enterprise data governance.
+
+My GitHub portfolio is both a showcase of my technical work and a space for continuous learning as trade regulations and technologies evolve.
 
 ---
 
@@ -42,22 +44,12 @@ A sourcing analytics project demonstrating how structured data and performance m
 
 ---
 
-## Areas of continued technical development include:
+## Continuous Learning
 
-- Restricted-party screening and sanctions risk identification
-- HTS classification validation and regulatory reference management
-- AD/CVD scope screening and case-level risk monitoring
-- Customs valuation and preferential origin analysis
-- Exception management, review workflows, and traceable compliance decisions
+I'm expanding my technical work into restricted-party screening, export controls, sanctions risk intelligence, and other emerging trade compliance challenges.
+
+I use this portfolio to stay engaged with regulatory developments, experiment with practical automation, and document what I'm learning.
 
 ---
 
-## 🎯 What Drives My Work
-
-I enjoy finding opportunities to make complex processes simpler, data more reliable, and business decisions more informed.
-
-My approach is rooted in continuous improvement. Small but cumulative changes create meaningful operational impact over time.
-
-📍 Chicago, IL
-
-Explore my repositories to see how I apply trade compliance knowledge and data analytics to practical business challenges.
+My approach: Automate the repeatable. Escalate the uncertain. Document the decision.
