@@ -8,7 +8,8 @@ My GitHub portfolio is both a showcase of my technical work and a space for cont
 
 ---
 
-### 🛸 Trade Intelligence Command Center **✨ NEW PROJECT | 🚧 IN ACTIVE DEVELOPMENT**
+### 🛸 Trade Intelligence Command Center 
+**✨ NEW PROJECT | 🚧 IN ACTIVE DEVELOPMENT**
 
 *Regulatory Intelligence · Trade Compliance · Automation*
 
