@@ -13,11 +13,10 @@ My GitHub portfolio is both a showcase of my technical work and a space for cont
 ### 🛸 [Trade Intelligence Command Center](https://github.com/gkarnelle/Trade-Intelligence-Command-Center)
 **Regulatory Intelligence | Trade Compliance | Python Automation**
 
-My personal Mission Control for monitoring U.S. trade policy, customs regulations, sanctions, and export-control developments.
+My personal Mission Control for monitoring U.S. trade policy, customs regulations, sanctions, and export-control developments. 
+🚀 **[Launch Mission Control 👽🪐](https://gkarnelle.github.io/Trade-Intelligence-Command-Center/)**
 
 Designed as an evolving professional intelligence platform to support regulatory awareness, continuous learning, and research-driven insights.
-
-🚀 **[Launch Mission Control 👽🪐](https://gkarnelle.github.io/Trade-Intelligence-Command-Center/)**
 
 ### 📊 [Global Trade Data Analysis](https://github.com/gkarnelle/Global-Trade-Data-Analysis)
 
