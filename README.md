@@ -44,11 +44,11 @@ A sourcing analytics project demonstrating how structured data and performance m
 
 ## Areas of continued technical development include:
 
-- **Restricted-party screening and sanctions risk identification
-- **HTS classification validation and regulatory reference management
-- **AD/CVD scope screening and case-level risk monitoring
-- **Customs valuation and preferential origin analysis
-- **Exception management, review workflows, and traceable compliance decisions
+- Restricted-party screening and sanctions risk identification
+- HTS classification validation and regulatory reference management
+- AD/CVD scope screening and case-level risk monitoring
+- Customs valuation and preferential origin analysis
+- Exception management, review workflows, and traceable compliance decisions
 
 ---
 
