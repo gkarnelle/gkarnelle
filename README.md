@@ -1,4 +1,4 @@
-# Hi, I'm Karnelle 👋🛸
+# Hi, I'm Karnelle 👋🪐
 
 I'm a trade compliance and operations professional with eight years of experience improving customs processes, strengthening data integrity, and translating complex trade information into actionable business insights.
 
