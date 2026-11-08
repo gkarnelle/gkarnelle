@@ -11,7 +11,7 @@ I use Python, analytics, and automation to explore practical solutions for inter
 
 *Regulatory Intelligence · Trade Compliance · Automation*
 
-> 🌌 **Mission:** Build a centralized regulatory intelligence dashboard for tracking U.S. trade policy, customs compliance, sanctions, and export-control developments. [Launch Mission Control](https://gkarnelle.github.io/Trade-Intelligence-Command-Center/) | [Launch Repository](https://github.com/gkarnelle/Trade-Intelligence-Command-Center)
+> 🌌 **Mission:** Build a centralized regulatory intelligence dashboard for tracking U.S. trade policy, customs compliance, sanctions, and export-control developments. [Launch Trade Intelligence Command Center](https://gkarnelle.github.io/Trade-Intelligence-Command-Center/)
 
 ---
 
