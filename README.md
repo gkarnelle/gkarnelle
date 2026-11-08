@@ -4,8 +4,6 @@ I'm a trade compliance and operations professional with eight years of experienc
 
 I use Python, analytics, and automation to explore practical solutions for international trade compliance, supply chain operations, and enterprise data governance.
 
-My GitHub portfolio is both a showcase of my technical work and a space for continuous learning as trade regulations and technologies evolve.
-
 ---
 
 ### 🛸 Trade Intelligence Command Center 
@@ -13,9 +11,7 @@ My GitHub portfolio is both a showcase of my technical work and a space for cont
 
 *Regulatory Intelligence · Trade Compliance · Automation*
 
-> 🌌 **Mission:** Build a centralized regulatory intelligence dashboard for tracking U.S. trade policy, customs compliance, sanctions, and export-control developments.
-
-🛸 [Launch Mission Control](https://gkarnelle.github.io/Trade-Intelligence-Command-Center/)
+> 🌌 **Mission:** Build a centralized regulatory intelligence dashboard for tracking U.S. trade policy, customs compliance, sanctions, and export-control developments. 🛸 [Launch Mission Control](https://gkarnelle.github.io/Trade-Intelligence-Command-Center/)
 
 ---
 
