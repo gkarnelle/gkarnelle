@@ -8,17 +8,13 @@ My GitHub portfolio is both a showcase of my technical work and a space for cont
 
 ---
 
-### 🛸 Trade Intelligence Command Center
-**✨ NEW PROJECT | 🚧 IN ACTIVE DEVELOPMENT**
+### 🛸 Trade Intelligence Command Center **✨ NEW PROJECT | 🚧 IN ACTIVE DEVELOPMENT**
 
-*Regulatory Intelligence · Trade Compliance · Automation**
+*Regulatory Intelligence · Trade Compliance · Automation*
 
 > 🌌 **Mission:** Build a centralized regulatory intelligence dashboard for tracking U.S. trade policy, customs compliance, sanctions, and export-control developments.
 
-🛸 [Launch Mission Control](https://gkarnelle.github.io/Trade-Intelligence-Command-Center/)  
-💻 [View GitHub Repository](https://github.com/gkarnelle/Trade-Intelligence-Command-Center/)
-
-*🚧 This is an evolving portfolio project. Features and data integrations are being developed and refined.*
+🛸 [Launch Mission Control](https://gkarnelle.github.io/Trade-Intelligence-Command-Center/)
 
 ---
 
