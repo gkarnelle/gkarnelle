@@ -1,62 +1,59 @@
-# Hi, I'm Karnelle 👋🪐
+# Hi, I'm Karnelle! 👋🏽
 
-I'm a trade compliance and operations professional with eight years of experience improving customs processes, strengthening data integrity, and translating complex trade information into actionable business insights.
+### International Trade Compliance | Data Analytics | Automation
 
-I use Python, analytics, and automation to explore practical solutions for international trade compliance, supply chain operations, and enterprise data governance.
+I combine international trade expertise with data analytics to turn complex information into actionable insights.
 
----
-
-### 🛸 Trade Intelligence Command Center 
-**✨ NEW PROJECT | 🚧 IN ACTIVE DEVELOPMENT**
-
-*Regulatory Intelligence · Trade Compliance · Automation*
-
-> 🌌 **Mission:** Build a centralized regulatory intelligence dashboard for tracking U.S. trade policy, customs compliance, sanctions, and export-control developments. [Launch Trade Intelligence Command Center](https://gkarnelle.github.io/Trade-Intelligence-Command-Center/)
+My work focuses on **trade compliance, global sourcing, data quality, regulatory intelligence, and process automation**.
 
 ---
 
-## 🗂️ Featured Projects
+## Featured Projects
 
-### 📊 [Global Trade Data Analysis](https://github.com/gkarnelle/Global-Trade-Data-Analysis)
+### 📡 [Trade Intelligence Command Center](https://github.com/gkarnelle/Trade-Intelligence-Command-Center)
+A centralized dashboard for monitoring U.S. trade policy and regulatory developments.
 
-*Trade Compliance Intelligence · Python · Data Visualization*
+**Focus:** Regulatory Intelligence · Trade Policy · Automation
 
-A fictional U.S. importer's 2022–2026 trade analytics project featuring 500 synthetic import transactions, automated preliminary compliance screening, sourcing diversification analysis, and an executive dashboard.
+### 📦 [Strategic Sourcing Intelligence](https://github.com/gkarnelle/Strategic-Sourcing-Intelligence)
+Python-powered supplier and procurement analytics covering 40 suppliers and $498M in synthetic purchasing activity.
 
-**Focus** — Regulatory awareness, screening automation, sourcing visibility, and executive reporting.
+**Focus:** Supplier Performance · Sourcing Risk · Business Intelligence
 
-### 🧹 [Broker Entry Data Cleaning](https://github.com/gkarnelle/Broker-Entry-Data-Cleaning)
+### 🚢 [Global Trade Data Analysis](https://github.com/gkarnelle/Global-Trade-Data-Analysis)
+Interactive analysis of 3,000 shipments and 2,940 customs entries, connecting sourcing, shipment, and import data.
 
-*Customs Data Quality · Python · Data Governance*
+**Focus:** Customs Analytics · Data Visualization · Trade Risk
 
-A portfolio project focused on improving customs entry data quality through structured validation, cleaning, and exception identification.
+[🌐 Explore the Live Dashboard](https://global-trade-data-analysis-hzk4vwoxryasepp4c58s7h.streamlit.app)
 
-**Focus** — Data integrity, repeatable quality controls, and operational efficiency.
+### 🛡️ [Broker Entry Data Cleaning & Reconciliation](https://github.com/gkarnelle/Broker-Entry-Data-Cleaning)
+Automated cleaning and reconciliation of 4,894 customs entry lines across three simulated broker formats, achieving a **97.83% reconciliation match rate**.
 
-### 📈 [Strategic Sourcing Intelligence](https://github.com/gkarnelle/Strategic-Sourcing-Intelligence)
-
-*Supply Chain Analytics · Strategic Sourcing · Business Intelligence*
-
-A sourcing analytics project demonstrating how structured data and performance metrics can support supplier evaluation, procurement visibility, and business decisions.
-
-**Focus** — Sourcing intelligence, analytical reporting, and decision support.
+**Focus:** Data Quality · Python Automation · Auditability
 
 ---
 
-## 🛠️ Tools & Capabilities
+## 💻 Technical Toolkit
 
-- **Technical** — Python · SQL · Power BI · Excel · GitHub
-- **Trade & Operations** — Import Compliance · Customs Data Analysis · Tariff Research · Regulatory Screening · Strategic Sourcing
-- **Analytics & Governance** — Data Cleaning · Data Validation · Process Automation · KPI Reporting · Data Visualization · Data Governance
+**Data & Development:** Python · SQL · Pandas · Git · GitHub Actions
 
----
+**Analytics:** Streamlit · Data Visualization · KPI Reporting · Business Intelligence
 
-## Continuous Learning
-
-I'm expanding my technical work into restricted-party screening, export controls, sanctions risk intelligence, and other emerging trade compliance challenges.
-
-I use this portfolio to stay engaged with regulatory developments, experiment with practical automation, and document what I'm learning.
+**Trade Expertise:** Customs Compliance · Trade Policy · Import Operations · Supplier Risk · Regulatory Research
 
 ---
 
-My approach: Automate the repeatable. Escalate the uncertain. Document the decision.
+## 🚀 Currently Exploring
+
+- Automated trade intelligence and regulatory monitoring
+- Restricted-party screening and risk-based workflows
+- Practical applications of Python and analytics in trade compliance
+
+---
+
+## 🤝 Let's Connect
+
+I'm always interested in connecting with professionals across international trade, compliance, supply chain, and data analytics.
+
+*Portfolio projects use fictional companies and synthetic transactional data where applicable. Analytical findings support research and human review, not legal compliance determinations.*
